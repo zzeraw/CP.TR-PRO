@@ -1,0 +1,59 @@
+#############
+## OS files
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+# IDE crap
+.idea
+
+#############
+## Yii
+#############
+
+/assets/
+protected/runtime/
+themes/classic/views/
+
+#############
+## Codeigniter
+#############
+
+# */config/development
+# */logs/log-*.php
+# */logs/!index.html
+# */cache/*
+# */cache/!index.html
+
+#############
+## Rails
+#############
+
+# *.rbc
+# *.sassc
+# .sass-cache
+# capybara-*.html
+# .rspec
+# /.bundle
+# /vendor/bundle
+# /log/*
+# /tmp/*
+# /db/*.sqlite3
+# /public/system/*
+# /coverage/
+# /spec/tmp/*
+# **.orig
+# rerun.txt
+# pickle-email-*.html
+/.idea/
